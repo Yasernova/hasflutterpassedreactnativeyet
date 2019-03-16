@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%20//yasernova.github.io/hasflutterpassedreactnativeyet/precache-manifest.b92067385ecbad7bbd6c2e8075320977.js"
+  "/hasflutterpassedreactnativeyet/precache-manifest.e49f026bae4a34092b2e6a6e7f32de6e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%20//yasernova.github.io/hasflutterpassedreactnativeyet/index.html", {
+workbox.routing.registerNavigationRoute("/hasflutterpassedreactnativeyet/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
