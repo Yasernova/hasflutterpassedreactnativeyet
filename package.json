@@ -2,7 +2,7 @@
   "name": "hasflutterpassedreactnativeyet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https: //yasernova.github.io/hasflutterpassedreactnativeyet",
+  "homepage": "https://yasernova.github.io/hasflutterpassedreactnativeyet",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "material-icons-react": "^1.0.4",
