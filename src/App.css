@@ -52,6 +52,7 @@ body {
   border-bottom: 1px solid #ddd;
   padding: 15px 0px;
   cursor: pointer;
+  color: black;
   text-decoration: none;
 }
 #indicator #links a:hover {
